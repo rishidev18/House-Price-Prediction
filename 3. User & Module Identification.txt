@@ -1,0 +1,11 @@
+3. User & Module Identification:
+User
+	1.Buyer
+	2.Seller
+	3.Real Estate Agent
+Modules
+	1.Data Collection Module
+	2.Data Preprocessing Module
+	3.Model Training Module
+	4.Price Prediction Module
+	5.Result Visualization Module
