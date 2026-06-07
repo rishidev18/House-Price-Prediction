@@ -1,0 +1,3 @@
+1. Problem Statement:
+
+House prices vary based on factors such as location, area, number of bedrooms, bathrooms, and property condition. Predicting house prices manually is difficult. This project develops a Machine Learning model that predicts house prices accurately using historical housing data.
