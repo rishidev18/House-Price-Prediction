@@ -1,0 +1,7 @@
+2. Project Objectives:
+Objectives
+	1.Collect housing data.
+	2.Preprocess and clean the dataset.
+	3.Train a Machine Learning model.
+	4.Predict house prices based on user inputs.
+	5.Display predicted house prices through a simple user interface.
